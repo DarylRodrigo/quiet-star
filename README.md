@@ -11,6 +11,6 @@ We make an 8-thought-token ahead (including start and end tokens) model [availab
 # Run
 
 To run example inference
-- `pip install -r requirements.txt"
+- `pip install -r requirements.txt`
 - `jupyter notebook`
 - Run all cells
